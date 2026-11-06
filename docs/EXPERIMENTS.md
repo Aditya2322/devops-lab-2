@@ -24,7 +24,7 @@
 - Container listing and lifecycle commands.
 - Tagged the image as `v1` and `latest`.
 - Started Flask + Redis using Docker Compose.
-- Pushed `axdy02/devops-lab2:v1` to Docker Hub.
+- Pushed `Aditya2322/devops-lab2:v1` to Docker Hub.
 
 **Result:** Container/image lifecycle management and registry usage were completed.
 
